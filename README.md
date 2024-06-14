@@ -37,6 +37,7 @@ I made use of the slicer to compare the region performance and also yearly perfo
 
 ## Insights
 Some of the Major Insights gotten shows that;
+
 *The West Region had the highest number of sales.*
 
 *The year 2014 had the highest sales which showed that there was a positve trend as regards the sales.* 

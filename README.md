@@ -33,7 +33,8 @@ Using Microsoft Excel, i did a comprehensive cleaning of the data which means th
 With the data in Microsoft Excel, i made some analysis to find interesting patterns and also created visual charts to show some of these patterns clearly. 
 These visuals helped understand indicators like which region performed with the highest number of sales and also the region with the highest average profit, the sub-category that had the highest sales. 
 I made use of the slicer to compare the region performance and also yearly performance. 
-![](Superstore Dashboard.png)
+
+ ![](Superstore Dashboard.png)
 
 
 ## Insights

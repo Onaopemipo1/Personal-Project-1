@@ -34,7 +34,7 @@ With the data in Microsoft Excel, i made some analysis to find interesting patte
 These visuals helped understand indicators like which region performed with the highest number of sales and also the region with the highest average profit, the sub-category that had the highest sales. 
 I made use of the slicer to compare the region performance and also yearly performance. 
 
- ![](Superstore Dashboard.png)
+ ![](SuperstoreDashboard.png)
 
 
 ## Insights
